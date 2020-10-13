@@ -13,7 +13,6 @@ function App() {
        <Route path="/" exact />
      </Switch>
      </Router>
-    <h1>React App</h1>
     </div>
   );
 }
